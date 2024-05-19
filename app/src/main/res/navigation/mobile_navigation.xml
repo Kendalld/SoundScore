@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_sensor">
+
+    <fragment
+        android:id="@+id/navigation_sensor"
+        android:name="com.example.swapsense.ui.dashboard.SensorFragment"
+        android:label="Sensor"
+        tools:layout="@layout/fragment_sensor" />
+
+    <fragment
+        android:id= "@id/navigation_swap"
+        android:name="com.example.swapsense.ui.FaceSwap.SwapFragment"
+        android:label="Swap"
+        tools:layout="@layout/fragment_swap" />
+
+    <fragment
+        android:id="@+id/navigation_camera"
+        android:name= "com.example.swapsense.ui.camera.CameraFragment"
+        android:label="Camera"
+        tools:layout="@layout/fragment_camera" />
+
+
+</navigation>

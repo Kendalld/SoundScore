@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SwapSense</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="face_1">Face 1</string>
+    <string name="face_2">Face 2</string>
+    <string name="image_for_faces">Image for faces</string>
+    <string name="action_button">Action button</string>
+    <string name="add_image_button">Add Image from Gallery</string>
+    <string name="sensor">Sensor</string>
+    <string name="camera">Camera</string>
+    <string name="add_face">Add Face</string>
+    <string name="add_image">+ Add Image</string>
+    <string name="swap">Face Swap</string>
+    <string name="title_camera">Camera</string>
+
+</resources>

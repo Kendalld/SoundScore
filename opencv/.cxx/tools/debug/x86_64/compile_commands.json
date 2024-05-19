@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/.cxx/Debug/4i3o6017/x86_64",
+  "command": "/Users/kd/Library/Android/sdk/ndk/27.0.11718014/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --sysroot=/Users/kd/Library/Android/sdk/ndk/27.0.11718014/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o -c /Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/libcxx_helper/dummy.cpp",
+  "file": "/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/libcxx_helper/dummy.cpp"
+}
+]

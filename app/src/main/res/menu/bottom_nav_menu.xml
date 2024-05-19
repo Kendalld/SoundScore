@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_sensor"
+        android:icon="@drawable/baseline_barcode_reader_24"
+        android:title="@string/sensor" />
+
+    <item
+        android:id="@+id/navigation_swap"
+        android:icon="@drawable/baseline_change_circle_24"
+        android:title="@string/swap" />
+
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/ic_camera_enhance_24"
+        android:title="@string/title_camera" />
+
+</menu>

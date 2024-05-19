@@ -1,0 +1,1 @@
+/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/build/intermediates/cxx/Debug/4i3o6017/obj/arm64-v8a

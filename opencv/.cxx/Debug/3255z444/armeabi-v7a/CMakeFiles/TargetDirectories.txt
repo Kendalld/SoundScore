@@ -1,0 +1,3 @@
+/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/.cxx/Debug/3255z444/armeabi-v7a/CMakeFiles/opencv_jni_shared.dir
+/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/.cxx/Debug/3255z444/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/.cxx/Debug/3255z444/armeabi-v7a/CMakeFiles/rebuild_cache.dir

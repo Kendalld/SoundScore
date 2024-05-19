@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/libcxx_helper/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/kd/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/.cxx/Debug/3255z444/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/kd/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/.cxx/Debug/3255z444/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "opencv_jni_shared::@6890427a1f51a3e7e1df": {
+      "artifactName": "opencv_jni_shared",
+      "abi": "arm64-v8a",
+      "output": "/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/.cxx/Debug/3255z444/arm64-v8a/libopencv_jni_shared.a",
+      "runtimeFiles": []
+    }
+  }
+}

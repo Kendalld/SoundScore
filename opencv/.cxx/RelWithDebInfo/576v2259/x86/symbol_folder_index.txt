@@ -1,0 +1,1 @@
+/Users/kd/AndroidStudioProjects/unfinished_archive/SwapSenseTemplate/opencv/build/intermediates/cxx/RelWithDebInfo/576v2259/obj/x86

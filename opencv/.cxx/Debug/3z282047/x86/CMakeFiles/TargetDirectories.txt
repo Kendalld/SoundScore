@@ -1,0 +1,3 @@
+/Users/kd/AndroidStudioProjects/SoundScore/opencv/.cxx/Debug/3z282047/x86/CMakeFiles/opencv_jni_shared.dir
+/Users/kd/AndroidStudioProjects/SoundScore/opencv/.cxx/Debug/3z282047/x86/CMakeFiles/edit_cache.dir
+/Users/kd/AndroidStudioProjects/SoundScore/opencv/.cxx/Debug/3z282047/x86/CMakeFiles/rebuild_cache.dir
